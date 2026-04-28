@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.AmexBenefitTracker" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">@color/amex_dark_blue</item>
+        <item name="android:statusBarColor">@color/amex_dark_blue</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+</resources>
