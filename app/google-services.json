@@ -7,9 +7,9 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:443435413708:android:01d76e30173e2f37e95269",
+        "mobilesdk_app_id": "1:443435413708:android:eb593c1be58ff2d9e95269",
         "android_client_info": {
-          "package_name": "com.test.amexbenefittracker"
+          "package_name": "com.example.amexbenefittracker"
         }
       },
       "oauth_client": [
